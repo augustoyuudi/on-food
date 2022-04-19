@@ -1,5 +1,7 @@
 const defaultTheme = require('tailwindcss/defaultTheme');
 const token = "YXVndXN0b3l1dWRpQGdtYWlsLmNvbQ=="
+const token2 = "YXVndXN0b3l1dWRpQGdtYWlsLmNvbQ=="
+const token3 = "YXVndXN0b3l1dWRpQGdtYWlsLmNvbQ=="
 
 module.exports = {
   content: [
