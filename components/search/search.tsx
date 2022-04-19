@@ -18,7 +18,7 @@ export function Search() {
             <ItemLink href="/descobrir/sao-paulo-sp">São Paulo, SP</ItemLink>
           </Menu.Item>
           <Menu.Item>
-            <ItemLink href="/descobrir/florianopolis-sc">Florian´ópolis, SC</ItemLink>
+            <ItemLink href="/descobrir/florianopolis-sc">Florianópolis, SC</ItemLink>
           </Menu.Item>
           <Menu.Item>
             <ItemLink href="/descobrir/porto-alegre-rs">Porto Alegre, RS</ItemLink>
